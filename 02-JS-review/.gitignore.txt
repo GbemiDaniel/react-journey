@@ -1,0 +1,13 @@
+# Node
+node_modules/
+npm-debug.log*
+
+# CRA
+.env
+.DS_Store
+build/
+.cache/
+.vscode/
+
+# OS junk
+Thumbs.db
